@@ -1,3 +1,5 @@
 Samosa - 15
 Idli - 30
-Dosa - 40
+Dosa - 45
+Vada - 20
+Poori - 35
